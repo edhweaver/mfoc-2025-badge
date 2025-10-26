@@ -1,0 +1,223 @@
+(footprint "D_DO-35_SOD27_P3.81mm_Vertical_KathodeUp"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=3.81mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
+	(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 3.81mm  length 4mm diameter 2mm")
+	(property "Reference" "REF**"
+		(at -1.687183 0 90)
+		(layer "F.SilkS")
+		(uuid "de871325-f3de-400c-a481-146f7ed5f26d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "3V9"
+		(at 1.905 2.326371 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af1202e6-dd76-47f8-a767-640a81bd18a1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.vishay.com/docs/85604/bzx55.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c60736a6-3da8-4e54-a7f5-f70f6cd0146a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Zener Diode 3.9 V 500 mW ±2% Through Hole DO-204AH (DO-35)Zener Diode 3.9 V 500 mW ±2% Through Hole DO-204AH (DO-35)"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1685f1ac-2715-428f-a572-4eed90a0351c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PartNumber" "BZX55B3V9-TR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39f4271b-0958-458f-aee4-8863d62045f9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "Vishay General Semiconductor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bb11fde7-0bb8-4b63-926f-649ce1826966")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Device" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7d5521af-bda0-4607-a830-7ad667121aa4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Pins" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "35bd2e08-944a-4484-b5f8-e07b7a12bf11")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 2.483629 0)
+		(end 1.1 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "290c26f6-0d55-448f-8ae9-fe24fbe5cc2a")
+	)
+	(fp_circle
+		(center 3.81 0)
+		(end 5.136371 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "ff62ecec-d61a-4380-ae9c-874524ff82ff")
+	)
+	(fp_rect
+		(start -1.05 -1.25)
+		(end 5.07 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "6f54f037-3398-4b86-a75f-9592c5f23a17")
+	)
+	(fp_line
+		(start 0 0)
+		(end 3.81 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b3e68809-0a0e-4eea-8212-f2f1cb5e3d70")
+	)
+	(fp_circle
+		(center 3.81 0)
+		(end 4.81 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "dcdd6a76-0007-453e-ba2f-64a8bbf0a193")
+	)
+	(fp_text user "K"
+		(at -0.798183 -1.651 90)
+		(layer "F.SilkS")
+		(uuid "6435ee06-5dc0-4bde-bc84-24a9a5eb7c95")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 3.81 0 270)
+		(layer "F.Fab")
+		(uuid "9f64991d-9174-4e66-9fbc-06cc00f92bab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "K"
+		(at 0 -1.143 270)
+		(layer "F.Fab")
+		(uuid "c768e3d9-ec8b-49ef-a960-5e33a0e083e5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15625)
+		(uuid "ca8f68f3-f5fd-4390-8aae-71ea2b7df963")
+	)
+	(pad "2" thru_hole circle
+		(at 3.81 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "051aed7f-061b-4f83-b624-f22cd83fa1a0")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P3.81mm_Vertical_KathodeUp.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
