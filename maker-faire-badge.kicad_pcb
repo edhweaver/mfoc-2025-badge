@@ -18175,324 +18175,6 @@
 		)
 	)
 	(table
-		(column_count 3)
-		(layer "F.Fab")
-		(border
-			(external yes)
-			(header yes)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-		)
-		(separators
-			(rows yes)
-			(cols yes)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-		)
-		(column_widths 21.286 16.637 16.383)
-		(row_heights 3.175 3.175 3.175 3.175 3.175 3.175 3.175)
-		(cells
-			(table_cell "LED BEHAVIOR"
-				(start 22.91 132.13)
-				(end 44.196 135.305)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "b1918a3f-e459-4d7d-89ec-72f35612ad35")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "POPULATE"
-				(start 44.196 132.13)
-				(end 60.833 135.305)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "637c4e67-b643-4c14-b0e5-4cf9bfbef202")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "DO NOT EQUIP"
-				(start 60.833 132.13)
-				(end 77.216 135.305)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "c6c3ee8e-2a28-452f-8c9d-7d406c60d733")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " BLINKING LED 1"
-				(start 22.91 135.305)
-				(end 44.196 138.48)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "951594ad-62b3-436d-96d1-41b277920493")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " R8,R1,R3"
-				(start 44.196 135.305)
-				(end 60.833 138.48)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "ce0e5b6f-7f3c-4548-9505-7eed655556d3")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " R15"
-				(start 60.833 135.305)
-				(end 77.216 138.48)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "c1c5e501-8d75-4d07-a8ac-7fcd6d56f175")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " SOLID LED 1"
-				(start 22.91 138.48)
-				(end 44.196 141.655)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "e4455c96-fd14-401d-8e00-8b9edfeae63f")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " R15"
-				(start 44.196 138.48)
-				(end 60.833 141.655)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "e6ef12ad-6ea8-4ab1-a8cf-ab216dd37ce0")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " R8"
-				(start 60.833 138.48)
-				(end 77.216 141.655)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "5616db07-7a8a-461b-8b68-41429ffcf73c")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " BLINKING LED 2"
-				(start 22.91 141.655)
-				(end 44.196 144.83)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "891bb565-3509-426e-926c-eb50acb680ac")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " R7,R4,R6"
-				(start 44.196 141.655)
-				(end 60.833 144.83)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "c318b48b-c178-4abe-9c60-30fdea660e0b")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " R14"
-				(start 60.833 141.655)
-				(end 77.216 144.83)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "43db5b8d-1312-463a-a830-88c12edec512")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " SOLID LED 2"
-				(start 22.91 144.83)
-				(end 44.196 148.005)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "3c5bf563-da84-4fe4-861f-0b4da759f16f")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " R14"
-				(start 44.196 144.83)
-				(end 60.833 148.005)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "c8f45519-6493-471b-b20a-962982b70bd3")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " R7"
-				(start 60.833 144.83)
-				(end 77.216 148.005)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "e38949c6-1730-4cf6-96a8-0ad7df8ff528")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " BLINKING LED 3"
-				(start 22.91 148.005)
-				(end 44.196 151.18)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "cbec4a29-c609-42db-87bb-7da4105a166a")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " R9,R10,R12"
-				(start 44.196 148.005)
-				(end 60.833 151.18)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "6f476527-ef19-4259-999b-a63fad66cbcd")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " R16"
-				(start 60.833 148.005)
-				(end 77.216 151.18)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "9b127b3c-0b21-48b7-a225-9b8f5ffa2eeb")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " SOLID LED 3"
-				(start 22.91 151.18)
-				(end 44.196 154.355)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "32fe7115-3884-49a0-9593-38c0222693de")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " R16"
-				(start 44.196 151.18)
-				(end 60.833 154.355)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "94e8c399-01b6-4398-9002-b0fb0e9cf46e")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " R9"
-				(start 60.833 151.18)
-				(end 77.216 154.355)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "c338a3d5-e8a9-4769-9d22-4d6ab2aff803")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-		)
-	)
-	(table
 		(column_count 4)
 		(layer "F.Fab")
 		(border
@@ -18881,6 +18563,324 @@
 				(span 1 1)
 				(layer "F.Fab")
 				(uuid "e2ed31f5-7042-4161-b75b-77b8df5821f1")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+		)
+	)
+	(table
+		(column_count 3)
+		(layer "F.Fab")
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+		)
+		(column_widths 21.286 16.637 16.383)
+		(row_heights 3.175 3.175 3.175 3.175 3.175 3.175 3.175)
+		(cells
+			(table_cell "LED BEHAVIOR"
+				(start 22.91 132.13)
+				(end 44.196 135.305)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "b1918a3f-e459-4d7d-89ec-72f35612ad35")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "POPULATE"
+				(start 44.196 132.13)
+				(end 60.833 135.305)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "637c4e67-b643-4c14-b0e5-4cf9bfbef202")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "DO NOT EQUIP"
+				(start 60.833 132.13)
+				(end 77.216 135.305)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "c6c3ee8e-2a28-452f-8c9d-7d406c60d733")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " BLINKING LED 1"
+				(start 22.91 135.305)
+				(end 44.196 138.48)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "951594ad-62b3-436d-96d1-41b277920493")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " R8,R1,R3"
+				(start 44.196 135.305)
+				(end 60.833 138.48)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "ce0e5b6f-7f3c-4548-9505-7eed655556d3")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " R15"
+				(start 60.833 135.305)
+				(end 77.216 138.48)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "c1c5e501-8d75-4d07-a8ac-7fcd6d56f175")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " SOLID LED 1"
+				(start 22.91 138.48)
+				(end 44.196 141.655)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "e4455c96-fd14-401d-8e00-8b9edfeae63f")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " R15"
+				(start 44.196 138.48)
+				(end 60.833 141.655)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "e6ef12ad-6ea8-4ab1-a8cf-ab216dd37ce0")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " R8"
+				(start 60.833 138.48)
+				(end 77.216 141.655)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "5616db07-7a8a-461b-8b68-41429ffcf73c")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " BLINKING LED 2"
+				(start 22.91 141.655)
+				(end 44.196 144.83)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "891bb565-3509-426e-926c-eb50acb680ac")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " R7,R4,R6"
+				(start 44.196 141.655)
+				(end 60.833 144.83)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "c318b48b-c178-4abe-9c60-30fdea660e0b")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " R14"
+				(start 60.833 141.655)
+				(end 77.216 144.83)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "43db5b8d-1312-463a-a830-88c12edec512")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " SOLID LED 2"
+				(start 22.91 144.83)
+				(end 44.196 148.005)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "3c5bf563-da84-4fe4-861f-0b4da759f16f")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " R14"
+				(start 44.196 144.83)
+				(end 60.833 148.005)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "c8f45519-6493-471b-b20a-962982b70bd3")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " R7"
+				(start 60.833 144.83)
+				(end 77.216 148.005)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "e38949c6-1730-4cf6-96a8-0ad7df8ff528")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " BLINKING LED 3"
+				(start 22.91 148.005)
+				(end 44.196 151.18)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "cbec4a29-c609-42db-87bb-7da4105a166a")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " R9,R10,R12"
+				(start 44.196 148.005)
+				(end 60.833 151.18)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "6f476527-ef19-4259-999b-a63fad66cbcd")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " R16"
+				(start 60.833 148.005)
+				(end 77.216 151.18)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "9b127b3c-0b21-48b7-a225-9b8f5ffa2eeb")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " SOLID LED 3"
+				(start 22.91 151.18)
+				(end 44.196 154.355)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "32fe7115-3884-49a0-9593-38c0222693de")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " R16"
+				(start 44.196 151.18)
+				(end 60.833 154.355)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "94e8c399-01b6-4398-9002-b0fb0e9cf46e")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " R9"
+				(start 60.833 151.18)
+				(end 77.216 154.355)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "c338a3d5-e8a9-4769-9d22-4d6ab2aff803")
 				(effects
 					(font
 						(size 1.27 1.27)
