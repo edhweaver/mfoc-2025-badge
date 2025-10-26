@@ -6388,7 +6388,7 @@
 			(pinfunction "+")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
-			(uuid "fc3ca336-6de0-4f54-98a3-0e243f4dcbde")
+			(uuid "80a4a871-0838-46d9-a514-b2851c4cc523")
 		)
 		(pad "2" thru_hole circle
 			(at 0 1.9 180)
@@ -8822,7 +8822,7 @@
 			(pinfunction "+")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
-			(uuid "aa447aa1-8362-460b-82f0-6f763480fe1f")
+			(uuid "10e953d3-9f31-47de-a1b3-957f19014bed")
 		)
 		(pad "2" thru_hole circle
 			(at 0 1.9 180)
@@ -18193,404 +18193,6 @@
 				(type solid)
 			)
 		)
-		(column_widths 21.971 27.305 19.304)
-		(row_heights 3.175 3.175 3.175)
-		(cells
-			(table_cell "POWER INPUTS"
-				(start 22.86 179.07)
-				(end 44.831 182.245)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "0a1c3448-fd4b-40b3-8314-2dc7f1b95f03")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "POPULATE"
-				(start 44.831 179.07)
-				(end 72.136 182.245)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "f4d75c97-40fa-4314-9d95-c5695bcb44c9")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "DO NOT EQUIP"
-				(start 72.136 179.07)
-				(end 91.44 182.245)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "8026db40-7db3-4b05-930f-e8d7ea12e761")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " BATTERY ONLY"
-				(start 22.86 182.245)
-				(end 44.831 185.42)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "8a55f2e2-8dbf-44a2-a91a-42d378502527")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " R17, BT1, BT2"
-				(start 44.831 182.245)
-				(end 72.136 185.42)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "7fe8f210-5e49-4c38-b450-781c9775cfb5")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " J1,D2,D3,D4,R13"
-				(start 72.136 182.245)
-				(end 91.44 185.42)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "09186794-f254-4cd8-873f-cb5ae1eb7a71")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " BATTERY PLUS USB"
-				(start 22.86 185.42)
-				(end 44.831 188.595)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "d44a95ee-a743-4d35-9e61-b296bb0a3f94")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " J1,D2,D3,D4,BT1,BT2,R13"
-				(start 44.831 185.42)
-				(end 72.136 188.595)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "80c24769-5a21-4d9f-b079-e2d53ff8d929")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell " R17"
-				(start 72.136 185.42)
-				(end 91.44 188.595)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "e2ed31f5-7042-4161-b75b-77b8df5821f1")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-		)
-	)
-	(table
-		(column_count 4)
-		(layer "F.Fab")
-		(border
-			(external yes)
-			(header yes)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-		)
-		(separators
-			(rows yes)
-			(cols yes)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-		)
-		(column_widths 21.336 15.621 22.987 22.86)
-		(row_heights 3.302 3.302 3.302 3.302)
-		(cells
-			(table_cell "LED BLINK PERIOD"
-				(start 22.86 157.48)
-				(end 44.196 160.782)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "04abc15b-e488-4c00-af26-5596c6cc23f8")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "LED ON TIME"
-				(start 44.196 157.48)
-				(end 59.817 160.782)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "48506f0f-208c-4349-b244-adcfd6d223eb")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "R3, R6, R12 VALUES"
-				(start 59.817 157.48)
-				(end 82.804 160.782)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "da74633b-c0da-4cad-9869-4c57696be0cf")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "R1, R4, R10 VALUES"
-				(start 82.804 157.48)
-				(end 105.664 160.782)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "898a61db-71f5-4cd0-ba13-f3756df98e78")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "4 SECONDS"
-				(start 22.86 160.782)
-				(end 44.196 164.084)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "45c7a66b-766f-461e-9141-d0c0f793b2d0")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "1 SECOND"
-				(start 44.196 160.782)
-				(end 59.817 164.084)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "453e7635-5412-4cd0-83f1-7d05f98ba2a7")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "59.2 K"
-				(start 59.817 160.782)
-				(end 82.804 164.084)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "0a13d98e-9682-4dbe-9bd8-7c0f32d5fc39")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "15.4 K"
-				(start 82.804 160.782)
-				(end 105.664 164.084)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "273b6c23-feb9-4e0b-8a22-f19c9bfbbfda")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "3 SECONDS"
-				(start 22.86 164.084)
-				(end 44.196 167.386)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "673926ea-fb38-44df-afa9-3617e376ef3c")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "1 SECOND"
-				(start 44.196 164.084)
-				(end 59.817 167.386)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "8a896c6a-5876-4d82-95f1-f33481d14004")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "48.7 5"
-				(start 59.817 164.084)
-				(end 82.804 167.386)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "14e5e183-31ec-48f0-8479-3142f3a5e77b")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "14.7 K"
-				(start 82.804 164.084)
-				(end 105.664 167.386)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "9d262e85-7025-484a-910a-c3ad652d38ec")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "2 SECONDS"
-				(start 22.86 167.386)
-				(end 44.196 170.688)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "107cb0ca-83c5-4ee3-8c5b-907491dcb1d9")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "1 SECOND"
-				(start 44.196 167.386)
-				(end 59.817 170.688)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "10cff237-b6ac-401b-a548-a10286de5385")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "40.2 K"
-				(start 59.817 167.386)
-				(end 82.804 170.688)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "217f65b9-21b0-4946-954b-a074d67b0c43")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(table_cell "14.0 K"
-				(start 82.804 167.386)
-				(end 105.664 170.688)
-				(margins 1.0025 1.0025 1.0025 1.0025)
-				(span 1 1)
-				(layer "F.Fab")
-				(uuid "b4222714-df2d-4e7b-9c6f-105b4125a504")
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-		)
-	)
-	(table
-		(column_count 3)
-		(layer "F.Fab")
-		(border
-			(external yes)
-			(header yes)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-		)
-		(separators
-			(rows yes)
-			(cols yes)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-		)
 		(column_widths 21.286 16.637 16.383)
 		(row_heights 3.175 3.175 3.175 3.175 3.175 3.175 3.175)
 		(cells
@@ -18881,6 +18483,404 @@
 				(span 1 1)
 				(layer "F.Fab")
 				(uuid "c338a3d5-e8a9-4769-9d22-4d6ab2aff803")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+		)
+	)
+	(table
+		(column_count 4)
+		(layer "F.Fab")
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+		)
+		(column_widths 21.336 15.621 22.987 22.86)
+		(row_heights 3.302 3.302 3.302 3.302)
+		(cells
+			(table_cell "LED BLINK PERIOD"
+				(start 22.86 157.48)
+				(end 44.196 160.782)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "04abc15b-e488-4c00-af26-5596c6cc23f8")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "LED ON TIME"
+				(start 44.196 157.48)
+				(end 59.817 160.782)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "48506f0f-208c-4349-b244-adcfd6d223eb")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "R3, R6, R12 VALUES"
+				(start 59.817 157.48)
+				(end 82.804 160.782)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "da74633b-c0da-4cad-9869-4c57696be0cf")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "R1, R4, R10 VALUES"
+				(start 82.804 157.48)
+				(end 105.664 160.782)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "898a61db-71f5-4cd0-ba13-f3756df98e78")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "4 SECONDS"
+				(start 22.86 160.782)
+				(end 44.196 164.084)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "45c7a66b-766f-461e-9141-d0c0f793b2d0")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "1 SECOND"
+				(start 44.196 160.782)
+				(end 59.817 164.084)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "453e7635-5412-4cd0-83f1-7d05f98ba2a7")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "59.2 K"
+				(start 59.817 160.782)
+				(end 82.804 164.084)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "0a13d98e-9682-4dbe-9bd8-7c0f32d5fc39")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "15.4 K"
+				(start 82.804 160.782)
+				(end 105.664 164.084)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "273b6c23-feb9-4e0b-8a22-f19c9bfbbfda")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "3 SECONDS"
+				(start 22.86 164.084)
+				(end 44.196 167.386)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "673926ea-fb38-44df-afa9-3617e376ef3c")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "1 SECOND"
+				(start 44.196 164.084)
+				(end 59.817 167.386)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "8a896c6a-5876-4d82-95f1-f33481d14004")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "48.7 5"
+				(start 59.817 164.084)
+				(end 82.804 167.386)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "14e5e183-31ec-48f0-8479-3142f3a5e77b")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "14.7 K"
+				(start 82.804 164.084)
+				(end 105.664 167.386)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "9d262e85-7025-484a-910a-c3ad652d38ec")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "2 SECONDS"
+				(start 22.86 167.386)
+				(end 44.196 170.688)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "107cb0ca-83c5-4ee3-8c5b-907491dcb1d9")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "1 SECOND"
+				(start 44.196 167.386)
+				(end 59.817 170.688)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "10cff237-b6ac-401b-a548-a10286de5385")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "40.2 K"
+				(start 59.817 167.386)
+				(end 82.804 170.688)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "217f65b9-21b0-4946-954b-a074d67b0c43")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "14.0 K"
+				(start 82.804 167.386)
+				(end 105.664 170.688)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "b4222714-df2d-4e7b-9c6f-105b4125a504")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+		)
+	)
+	(table
+		(column_count 3)
+		(layer "F.Fab")
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+		)
+		(column_widths 21.971 27.305 19.304)
+		(row_heights 3.175 3.175 3.175)
+		(cells
+			(table_cell "POWER INPUTS"
+				(start 22.86 179.07)
+				(end 44.831 182.245)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "0a1c3448-fd4b-40b3-8314-2dc7f1b95f03")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "POPULATE"
+				(start 44.831 179.07)
+				(end 72.136 182.245)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "f4d75c97-40fa-4314-9d95-c5695bcb44c9")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "DO NOT EQUIP"
+				(start 72.136 179.07)
+				(end 91.44 182.245)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "8026db40-7db3-4b05-930f-e8d7ea12e761")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " BATTERY ONLY"
+				(start 22.86 182.245)
+				(end 44.831 185.42)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "8a55f2e2-8dbf-44a2-a91a-42d378502527")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " R17, BT1, BT2"
+				(start 44.831 182.245)
+				(end 72.136 185.42)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "7fe8f210-5e49-4c38-b450-781c9775cfb5")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " J1,D2,D3,D4,R13"
+				(start 72.136 182.245)
+				(end 91.44 185.42)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "09186794-f254-4cd8-873f-cb5ae1eb7a71")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " BATTERY PLUS USB"
+				(start 22.86 185.42)
+				(end 44.831 188.595)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "d44a95ee-a743-4d35-9e61-b296bb0a3f94")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " J1,D2,D3,D4,BT1,BT2,R13"
+				(start 44.831 185.42)
+				(end 72.136 188.595)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "80c24769-5a21-4d9f-b079-e2d53ff8d929")
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(table_cell " R17"
+				(start 72.136 185.42)
+				(end 91.44 188.595)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Fab")
+				(uuid "e2ed31f5-7042-4161-b75b-77b8df5821f1")
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -23255,6 +23255,42 @@
 	)
 	(embedded_fonts no)
 	(embedded_files
+		(file
+			(name "template-1.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WDcCY0UAHbdXCEAtxsWHGS5ac4JWlhdzYCnBHgAuDmhyXPUcxNVVbcAEAFTAEsAVwD4H3ci
+				/o/HZjn7Wk/mQs53HDTUacn+/GdJfi1oqNZsP9nxS/4FACAgEEXvo7QWFaeyn3NAseqMn8t+3WPA
+				5pwXlbQvtmP2UQEQEIwhEufjPBsqBH9xZ3alPWKxmlV/yb/7Kq9KW1ZTKXvXPuei5+w3Y+/Bli2r
+				kIfBrh18++2f7++KcOa66r8ehtijTfu7jrhaztmfuR+rqj3k7nuewxatklX8ZC8fiLtG0E2jWUZu
+				wbCqIdNC9ELOCWW7WDQNx5E1NgiKUK3acs6FlWgFltIwmYOjZS6XDUVohj/nyDmbsv91r00d+6MI
+				VGnPzERry67r5LwKgAGBgSZoXVz0mnRBZ+KSF8J0OTHEDUkrZqJJFJtJVpFQGtmvx47uwLDLQkiy
+				iRbZHvbhWZB72wpLTi2C2TDgWwyddH623/1zGRxSg2+r+rkw405nF7lKf6DhRIYYmhopSJIUOpBE
+				pOZYB5xMi3rg8XyYZaVDkhvQx9bIVEg13BBCDTcVC1CMZriDMRsNhEGtdcqT2bksPgMhbhdgKSGd
+				XA7E6QJMMD09edqCs+lactLC7Pkv/FnyPpPVnkEJbQIL2QvBvgaHM9yFhcLj7JRhihQI6NNTvpsg
+				mIBxxQEnjDwNgmqXUg2TZePUQbxA/5eKsGkhB83weXqihgEdNf2hoyzMTR57yjXqGkcPDe2DgZDu
+				mPaiVMEbh/HBb051/ewKkClqYasd/84rw5a6vPSKAkGqnjwlqKnJH9ZQMCe6RB+TYWAvepi8Gjgc
+				dJjVo2XOlrxJaFtO1jaEuInfsHcp1qAmbdpf/4vnIGoqc21Ix0BUAQ==|
+			)
+			(checksum "F0294DCC764A8DC9F6CAFB8085197CBB")
+		)
+		(file
+			(name "template-2.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WDcCY0UAHbdXCEAtxsWHGS5ac4JWlhdzYCnBHgAuDmhyXPUcxNVVbcAEAFTAEsAVwD4H3ci
+				/o/HZjn7Wk/mQs53HDTUacn+/GdJfi1oqNZsP9nxS/4FACAgEEXvo7QWFaeyn3NAseqMn8t+3WPA
+				5pwXlbQvtmP2UQEQEIwhEufjPBsqBH9xZ3alPWKxmlV/yb/7Kq9KW1ZTKXvXPuei5+w3Y+/Bli2r
+				kIfBrh18++2f7++KcOa66r8ehtijTfu7jrhaztmfuR+rqj3k7nuewxatklX8ZC8fiLtG0E2jWUZu
+				wbCqIdNC9ELOCWW7WDQNx5E1NgiKUK3acs6FlWgFltIwmYOjZS6XDUVohj/nyDmbsv91r00d+6MI
+				VGnPzERry67r5LwKgAGBgSZoXVz0mnRBZ+KSF8J0OTHEDUkrZqJJFJtJVpFQGtmvx47uwLDLQkiy
+				iRbZHvbhWZB72wpLTi2C2TDgWwyddH623/1zGRxSg2+r+rkw405nF7lKf6DhRIYYmhopSJIUOpBE
+				pOZYB5xMi3rg8XyYZaVDkhvQx9bIVEg13BBCDTcVC1CMZriDMRsNhEGtdcqT2bksPgMhbhdgKSGd
+				XA7E6QJMMD09edqCs+lactLC7Pkv/FnyPpPVnkEJbQIL2QvBvgaHM9yFhcLj7JRhihQI6NNTvpsg
+				mIBxxQEnjDwNgmqXUg2TZePUQbxA/5eKsGkhB83weXqihgEdNf2hoyzMTR57yjXqGkcPDe2DgZDu
+				mPaiVMEbh/HBb051/ewKkClqYasd/84rw5a6vPSKAkGqnjwlqKnJH9ZQMCe6RB+TYWAvepi8Gjgc
+				dJjVo2XOlrxJaFtO1jaEuInfsHcp1qAmbdpf/4vnIGoqc21Ix0BUAQ==|
+			)
+			(checksum "F0294DCC764A8DC9F6CAFB8085197CBB")
+		)
 		(file
 			(name "template.kicad_wks")
 			(type worksheet)
