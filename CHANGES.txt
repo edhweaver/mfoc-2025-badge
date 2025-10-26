@@ -1,6 +1,11 @@
 SPDX-FileCopyrightText: 2025 Ed Weaver <ed.h.weaver@gmail.com>
 SPDX-License-Identifier: CERN-OHL-S-2.0+
 
+## 2025-07-20 - Revision C
+- **Modified by:** Ed Weaver
+- **Description:** Component Placement updates to reflect optimal component placement
+- **Relevant Files:** `maker-faire-badge.kicad_pro`, `maker-faire-badge.kicad_pcb`, `maker-faire-badge.kicad_sch`
+
 ## 2025-07-20 - Revision B
 - **Modified by:** Ed Weaver
 - **Description:** Silkscreen updates to reflect optimal component placement
