@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "Maker Faire Orange County Badge")
-		(date "2025-07-20")
-		(rev "B")
+		(date "2025-07-28")
+		(rev "C")
 		(company "Ed Weaver")
 		(comment 1 "This design allows for multiple assembly variants to change the behavior of the LED.  The")
 		(comment 2 "  design will drive all 3 colors of the multi-color LED to either blink or stay solidly lit.")
