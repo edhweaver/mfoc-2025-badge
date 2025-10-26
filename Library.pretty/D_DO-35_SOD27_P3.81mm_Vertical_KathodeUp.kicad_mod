@@ -6,9 +6,9 @@
 	(descr "Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=3.81mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 	(tags "Diode DO-35_SOD27 series Axial Vertical pin pitch 3.81mm  length 4mm diameter 2mm")
 	(property "Reference" "REF**"
-		(at -1.687183 0 90)
+		(at 6.223 0 90)
 		(layer "F.SilkS")
-		(uuid "de871325-f3de-400c-a481-146f7ed5f26d")
+		(uuid "5ae0e83f-4d08-44b3-aac5-9aac2c92b236")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +20,7 @@
 		(at 1.905 2.326371 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "af1202e6-dd76-47f8-a767-640a81bd18a1")
+		(uuid "d0c43955-90ff-4678-a494-bf9055e35ef7")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c60736a6-3da8-4e54-a7f5-f70f6cd0146a")
+		(uuid "d89db548-c20d-4dc0-9202-c0534beb3da3")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "1685f1ac-2715-428f-a572-4eed90a0351c")
+		(uuid "7df15fe8-7faf-44d9-9dde-934ae5f464ae")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -57,7 +57,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "39f4271b-0958-458f-aee4-8863d62045f9")
+		(uuid "85c08168-e831-4857-b6fd-0417f3becc64")
 		(effects
 			(font
 				(size 1 1)
@@ -70,7 +70,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "bb11fde7-0bb8-4b63-926f-649ce1826966")
+		(uuid "441422eb-e4fd-4ebd-bfe5-8bcec22b13b5")
 		(effects
 			(font
 				(size 1 1)
@@ -83,7 +83,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "7d5521af-bda0-4607-a830-7ad667121aa4")
+		(uuid "f33cd6d3-f2c2-4510-a5df-5ac0aad1649c")
 		(effects
 			(font
 				(size 1 1)
@@ -96,7 +96,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "35bd2e08-944a-4484-b5f8-e07b7a12bf11")
+		(uuid "8d0bbd06-5a1a-4803-858b-f4053c21e5de")
 		(effects
 			(font
 				(size 1 1)
@@ -113,7 +113,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "290c26f6-0d55-448f-8ae9-fe24fbe5cc2a")
+		(uuid "448f16a1-9bd5-4431-9d72-6b7d2e7f67fc")
 	)
 	(fp_circle
 		(center 3.81 0)
@@ -124,7 +124,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "ff62ecec-d61a-4380-ae9c-874524ff82ff")
+		(uuid "afe385e1-40ab-42c3-869c-f0aba3696983")
 	)
 	(fp_rect
 		(start -1.05 -1.25)
@@ -135,7 +135,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "6f54f037-3398-4b86-a75f-9592c5f23a17")
+		(uuid "00a77cea-0644-4d53-85d0-60f5c3e2fdbe")
 	)
 	(fp_line
 		(start 0 0)
@@ -145,7 +145,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "b3e68809-0a0e-4eea-8212-f2f1cb5e3d70")
+		(uuid "9853f9ba-a417-4acd-b3e9-5c9651a09530")
 	)
 	(fp_circle
 		(center 3.81 0)
@@ -156,12 +156,12 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "dcdd6a76-0007-453e-ba2f-64a8bbf0a193")
+		(uuid "5c860e40-0a16-41dd-b5a2-cb1a0775476b")
 	)
 	(fp_text user "K"
-		(at -0.798183 -1.651 90)
+		(at -1.524 0 90)
 		(layer "F.SilkS")
-		(uuid "6435ee06-5dc0-4bde-bc84-24a9a5eb7c95")
+		(uuid "79ed740b-cc8c-4707-ba82-49738b3653ca")
 		(effects
 			(font
 				(size 1 1)
@@ -172,7 +172,7 @@
 	(fp_text user "${REFERENCE}"
 		(at 3.81 0 270)
 		(layer "F.Fab")
-		(uuid "9f64991d-9174-4e66-9fbc-06cc00f92bab")
+		(uuid "2387c4bd-450d-480d-a69c-95ed9098ec72")
 		(effects
 			(font
 				(size 1 1)
@@ -183,7 +183,7 @@
 	(fp_text user "K"
 		(at 0 -1.143 270)
 		(layer "F.Fab")
-		(uuid "c768e3d9-ec8b-49ef-a960-5e33a0e083e5")
+		(uuid "ad052885-0536-409b-b8f1-37883df0116d")
 		(effects
 			(font
 				(size 1 1)
@@ -198,7 +198,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.15625)
-		(uuid "ca8f68f3-f5fd-4390-8aae-71ea2b7df963")
+		(uuid "f91dbd06-5fb2-4103-8c0f-a06ced91e707")
 	)
 	(pad "2" thru_hole circle
 		(at 3.81 0)
@@ -206,7 +206,7 @@
 		(drill 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "051aed7f-061b-4f83-b624-f22cd83fa1a0")
+		(uuid "336038cd-3dc1-4d82-ae8b-84f0bbe878c4")
 	)
 	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P3.81mm_Vertical_KathodeUp.step"
