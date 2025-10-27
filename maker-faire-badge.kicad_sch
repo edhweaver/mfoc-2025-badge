@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "Maker Faire Orange County Badge")
-		(date "2025-07-20")
-		(rev "B")
+		(date "2025-07-28")
+		(rev "C")
 		(company "Ed Weaver")
 		(comment 1 "This design allows for multiple assembly variants to change the behavior of the LED.  The")
 		(comment 2 "  design will drive all 3 colors of the multi-color LED to either blink or stay solidly lit.")
@@ -8925,43 +8925,7 @@
 	(embedded_fonts no)
 	(embedded_files
 		(file
-			(name "template-1.kicad_wks")
-			(type worksheet)
-			(data |KLUv/WDdCY0UALadXSAAtxsWHGS5ac4JWlhdpRkLD/FA+9nw5TnquYmqqlsAiFQATABYACH+x52I
-				/+OxWc6+1pO5kPMdBw11WrI//1mSXwsaqjXbT3b8kn8BAAgIRNH7KK1Fxans5xxQrDrj57Jf9xiw
-				OedFJe2L7Zh9VAAEBGOIxPk4z4YKAQXAX9yZXWmPWKxm1V/y777Kq9KW1VTK3rXPueg5+83Ye7Bl
-				yyrkYbBrB99+++f7uyKcua76r4ch9mjT/q4jrpZz9mfux6pqD7n7nucid8Fkl8bFT3b7QNw1gmqb
-				DDNyDIZVLZkWohdyVizahsk2nEfDoUlQhGrVlnMurEQrsFSWaTw4mWbbNBShGf7cI+dsyv7XvTZ1
-				7I8iUKU9GyZaW3ZdJ+cVAYGBJmhdXPSadEFn4pIXwnQ5McQOSWumklEoFocCk1Ui2pY9sl+PHf2B
-				YZeFoDQq2USDWIhnQe5tKyw5s0lGy4BvM3TS+dl+9882OKQGn1b1c2HGnc4efqDhRIaYmSIpSJIU
-				OoBEpOaoG9wsi3rgHRUxxmqHlCvQx9eQiZBqvDHkmt9UI8AxnvkdbGw4EAa21ilPxn1LHMcLsZ3E
-				3S0DRVqh5tifnD01sbN5gZz0Pc45rvlpMp/KdU+hhJrA0vZisM/B4Q13ZZHwADvKsKMGGNrMKZ8m
-				CAbCooIAEyxPo6HapVTDZNk4dRBf0P+kYmxayEEzfJ6eqGFAR07/6CvL5iaHPeUWdc2ll4baYCCk
-				O6c9UaDgjcP44DfnvEa7AnaKW9hyF733yrClBi+9okCQqidPCWpq8ghjKCB3OuTPyZCxFz1MXg0c
-				Djr06tEyZ0veJLQtJxMbQtzEb9i7FGtS0zRtrP/G8xB1l7k+pGOwqg==|
-			)
-			(checksum "B43973BA9303DEDDC043071236EA87C9")
-		)
-		(file
 			(name "template-2.kicad_wks")
-			(type worksheet)
-			(data |KLUv/WDcCY0UAHbdXCEAtxsWHGS5ac4JWlhdzYCnBHgAuDmhyXPUcxNVVbcAEAFTAEsAVwD4H3ci
-				/o/HZjn7Wk/mQs53HDTUacn+/GdJfi1oqNZsP9nxS/4FACAgEEXvo7QWFaeyn3NAseqMn8t+3WPA
-				5pwXlbQvtmP2UQEQEIwhEufjPBsqBH9xZ3alPWKxmlV/yb/7Kq9KW1ZTKXvXPuei5+w3Y+/Bli2r
-				kIfBrh18++2f7++KcOa66r8ehtijTfu7jrhaztmfuR+rqj3k7nuewxatklX8ZC8fiLtG0E2jWUZu
-				wbCqIdNC9ELOCWW7WDQNx5E1NgiKUK3acs6FlWgFltIwmYOjZS6XDUVohj/nyDmbsv91r00d+6MI
-				VGnPzERry67r5LwKgAGBgSZoXVz0mnRBZ+KSF8J0OTHEDUkrZqJJFJtJVpFQGtmvx47uwLDLQkiy
-				iRbZHvbhWZB72wpLTi2C2TDgWwyddH623/1zGRxSg2+r+rkw405nF7lKf6DhRIYYmhopSJIUOpBE
-				pOZYB5xMi3rg8XyYZaVDkhvQx9bIVEg13BBCDTcVC1CMZriDMRsNhEGtdcqT2bksPgMhbhdgKSGd
-				XA7E6QJMMD09edqCs+lactLC7Pkv/FnyPpPVnkEJbQIL2QvBvgaHM9yFhcLj7JRhihQI6NNTvpsg
-				mIBxxQEnjDwNgmqXUg2TZePUQbxA/5eKsGkhB83weXqihgEdNf2hoyzMTR57yjXqGkcPDe2DgZDu
-				mPaiVMEbh/HBb051/ewKkClqYasd/84rw5a6vPSKAkGqnjwlqKnJH9ZQMCe6RB+TYWAvepi8Gjgc
-				dJjVo2XOlrxJaFtO1jaEuInfsHcp1qAmbdpf/4vnIGoqc21Ix0BUAQ==|
-			)
-			(checksum "F0294DCC764A8DC9F6CAFB8085197CBB")
-		)
-		(file
-			(name "template.kicad_wks")
 			(type worksheet)
 			(data |KLUv/WDcCY0UAHbdXCEAtxsWHGS5ac4JWlhdzYCnBHgAuDmhyXPUcxNVVbcAEAFTAEsAVwD4H3ci
 				/o/HZjn7Wk/mQs53HDTUacn+/GdJfi1oqNZsP9nxS/4FACAgEEXvo7QWFaeyn3NAseqMn8t+3WPA
